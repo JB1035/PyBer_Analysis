@@ -14,10 +14,10 @@ The CEO of a ride-sharing app has requested an analysis of 5 months worth of dat
 ![This is an image](images/fare_by_city_type_line.png)
 
 ## Summary
-* Peak months are similar across each city type except for suburban areas in the summer in comparison to rurual.
-* Urban areas generate the most revenue with a higher return on fare per ride than fare per driver, showing more profitability. Maintain that equilibriam.
-* Suburban areas generate the second most revenue, but at nearly half of Urban due to less rides and drivers. Adding more drivers could increase profitability.
-* Rural areas generate the least revenue at nearly less than a half of total rides and drivers. Adding more drivers could increase profitability.
+* Peak months are similar across each city type except for suburban areas in the summer in comparison to rural.
+* Urban areas generate the most revenue with a lowest return on fare per ride than fare per driver. A test could be conducted to see if cheaper fares capture more riders who may be taking other public transport or other, further increasing revenue.
+* Suburban areas generate the second most revenue, but at nearly half of Urban due to less rides and drivers. Add more drivers by increasing the revenue by increasing the price per fare.
+* Rural areas generate the least revenue at nearly less than a half of total rides and drivers. Add more drivers by increasing the revenue by increasing the price per fare.
 
 
 
